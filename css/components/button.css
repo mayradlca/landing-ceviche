@@ -1,0 +1,33 @@
+.btn-black {
+	background-color: black;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color:  white;
+	font-weight: bold;
+}
+
+.btn-white {
+	background-color: whitesmoke;
+	padding: 13px 17px;
+	border-radius: 4px;
+	color:  black;
+	font-weight: bold;
+}
+
+.btn-yellow {
+	background-color: rgb(236, 155, 59);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color:  white;
+	font-weight: bold;
+	display: flex;
+	text-align: center;
+}
+
+.btn-menu {
+	padding: 13px 17px;
+	border-radius: 4px;
+	color:  black;
+	font-weight: bolder;
+	margin-bottom: 50px;
+}
